@@ -1,6 +1,6 @@
 === format of listing ===
 App_Name version             Installer-Menus app identifier (used to install apps, like "./Installer-Menus vlc")
 
-VLC: 3.07                    vlc
+VLC: 3.0.17.4                vlc
 
 OBS: 27.2.4                  obs
